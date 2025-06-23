@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![AES](https://img.shields.io/badge/AES-256-bit%20encryption-blue)
+![Security](https://img.shields.io/badge/Encryption-AES_256_CBC-blue)
 ![Steganography](https://img.shields.io/badge/steganography-LSB%20embedding-green)
 
 A secure web application that hides encrypted messages within images using AES-256 encryption and LSB steganography techniques.
